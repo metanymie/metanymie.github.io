@@ -1,4 +1,4 @@
-A list of films about VR, including those happening before the real advent of VR; a timeline of VR imaginaries.
+A list of films about VR, including those happening before the real advent of VR; a timeline of VR imaginaries in cinema.
 
 [1970](#1970) ◆ 
 [1971](#1971) ◆ 

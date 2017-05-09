@@ -28,6 +28,8 @@ The Holodeck was introduced into the Star Trek universe in 1987 with the start o
 ## 88
 ## 89
 ### Back to the Future Part 2
+Robert Zemeckis’s 1989 sequel to Back to the Future offers only a glimpse of virtual reality in the film’s depiction of 2015, which was still 27 years away when the film went into production. It’s not quite clear whether the JVC-branded goggles shown are for virtual reality or augmented reality, although Marty Junior’s interaction with his surroundings suggests the latter. Either way, the filmmakers made a pretty good prediction, with Google Glass and Samsung Gear VR both being available in 2015.
+
 ## 90
 ## 91
 ## 92
@@ -59,7 +61,7 @@ American sci-fi movie directed by Kathryn Bigelow, offers a dystopian vision of 
 Known to be a cult classic of the cyber punk 90s, Hackers is most famous for, you guessed it, it’s portrayal and focus around computer hacking.  Moving to a new school, Dade “Crash Override, formally Zero Cool” Murphy (Johnny Lee Miller) works his way into a hacker group that introduces him to Kate “Acid Burn” Libby (Angelina Jolie).  Together, they end up entrenched in a plot that leads them to trying to hack into Eugene “The Plague” Belford’s (Fisher Stevens) formidable Gibson supercomputer of Ellingson Mineral Company.
 * Head mounted display: Used during the Gibson hack attempt, Dade wears a Google Glass like headset with a drop down heads up display.  On the display, Dade is able to fly through the low poly virtual environment of the Gibson.
 * Consumer VR:  Seen used by Belford, Hackers actually features a VR rig that, at the time, could be found in arcades across the country.  Combining headset, hack trackers, and omnidirectional treadmill, Belford uses his Virtuality rig as a gaming escape.
-###Johnny Mnemonic
+### Johnny Mnemonic
 Making his first appearance in a VR movie, Keanu Reeves (Johnny) lives in a future where one of the only secure ways to transport data is to upload it into storage devices implanted in the brain.  With two different organizations hunting him down for this information, Johnny finds the need to access the Net via his futuristic VR tech.
 * Head mounted display:  Fitting the mold of a headset that Apple would produce, Johnny dons a sleek chrome arc that covers from forehead to nose.
 * Hand tracking: Lacking a keyboard or mouse, Johnny fits his hands into exoskeleton gloves that provide him with all of the motions of the finger and hands.  Though, they do not appear to provide any haptic feedback.
@@ -76,71 +78,77 @@ Unfortunately, the creative inspiration ends there, as Jobe hatches another tedi
 Spanish film directed and by co-written Alejandro Amenábar, definitely falls into the dystopian VR camp. The film, which was given the Hollywood treatment by Russell Crow in Vanilla Sky in 2001, involves cryogenics in addition to recorded and manipulated memories. 
 ## 98
 ## 99
-The Matrix
-directed by Wachowski sisters, remains the king of films based on the premise of virtual reality. Reality as all humans perceive it being a mere illusion created by sentient machines to subdue the human population while their bodies’ heat and electrical activity are used as a source of energy. Reeves’ character, computer programmer Neo, discovers the truth and is drawn into a rebellion against the machines.
+### The Matrix
+Directed by Wachowski sisters, remains the king of films based on the premise of virtual reality. Reality as all humans perceive it being a mere illusion created by sentient machines to subdue the human population while their bodies’ heat and electrical activity are used as a source of energy. Reeves’ character, computer programmer Neo, discovers the truth and is drawn into a rebellion against the machines.
 
-eXistenZ
+### eXistenZ
 Sitting in on the focus group for the latest, next generation VR game, Jude Law and Jennifer Jason Leigh star in this thriller in which technology has taken a turn towards the organic.
-	•	Console:  Resembling the perfect mix of an Xbox controller and silly putty, circuitry has been replaced by living game pods.  A wired system, rather than plugging into an outlet each game pod plugs into a bioport in the human spine.  Similar to the wetwire technology seen in the Matrix films, these bioports create a full sensory and motion tracking experience for the user.
+* Console:  Resembling the perfect mix of an Xbox controller and silly putty, circuitry has been replaced by living game pods.  A wired system, rather than plugging into an outlet each game pod plugs into a bioport in the human spine.  Similar to the wetwire technology seen in the Matrix films, these bioports create a full sensory and motion tracking experience for the user.
 
-The Thirteenth Floor
+### The Thirteenth Floor
 Hannon Fuller (Armin Mueller-Stahl) recently completed a VR environment that perfectly renders a 1937 Los Angeles.  Populating his version of LA are computer generated human characters that live life unaware of their existence in a simulation.  That is, until someone from Fuller’s world logs in.  At that time, any player is thrust into the consciousness of an identical avatar, taking over his life as if it were his own.  When Fuller is murdered in the real world, his protege, Douglas Hall (Craig Bierko) must virtually travel back in time to follow Fuller’s trail of breadcrumbs.
-	•	Full immersion:  To become their 1937 doppelganger’s, Fuller, Hall, and all others lie down on a table to then have the table slide back into a chamber not dissimilar from an MRI machine.  With an array of lasers constantly panning from head to toe, a full neural connection is established to induce presence.
-	•	Head mounted display:  Slimmed down from the MRI-like machine is an over ear headphone style headset.  Assumed to be a neural data transfer, all that Hall must do is lay flat on a table and he is immersed.
-00
-The Cell
+* Full immersion:  To become their 1937 doppelganger’s, Fuller, Hall, and all others lie down on a table to then have the table slide back into a chamber not dissimilar from an MRI machine.  With an array of lasers constantly panning from head to toe, a full neural connection is established to induce presence.
+* Head mounted display:  Slimmed down from the MRI-like machine is an over ear headphone style headset.  Assumed to be a neural data transfer, all that Hall must do is lay flat on a table and he is immersed.
+
+## 00
+
+### The Cell
 In a situation that is strikingly similar to the Apple vs. FBI standoff, psychologist Catherine Deane (Jennifer Lopez) and Agent Peter Novak (Vince Vaughn) must enter the mind of a comatose serial killer in order to find the location of his latest victim before she dies.  Using the latest VR technology, entering his mind means results in full presence and experience of the twisted mind of a killer.
-	•	Head mounted display:  Suspended horizontally by cables, Deane and Novak use a combination of chemicals and a non traditional cloth head mounted display to sensory immersion.  With circuitry woven in and localized over the face, both parties have a cloth placed on their head.  The chemicals, injected into the arm, induce a sleep like trance but allow mind mapping and the transmission of signals from one mind to another.
-	•	Haptic/body tracking suit:  Inspired by our own body’s inner workings, the haptic suits are designed to mimic the layout of the muscles; in both look and function.  With appropriately placed external muscles, as the mind attempts to move about the consciousness, the suit induces movement.
+* Head mounted display:  Suspended horizontally by cables, Deane and Novak use a combination of chemicals and a non traditional cloth head mounted display to sensory immersion.  With circuitry woven in and localized over the face, both parties have a cloth placed on their head.  The chemicals, injected into the arm, induce a sleep like trance but allow mind mapping and the transmission of signals from one mind to another.
+* Haptic/body tracking suit:  Inspired by our own body’s inner workings, the haptic suits are designed to mimic the layout of the muscles; in both look and function.  With appropriately placed external muscles, as the mind attempts to move about the consciousness, the suit induces movement.
 
-01
-02
-Minority Report
+## 01
+
+## 02
+
+### Minority Report
 Murder no longer occurs in the future. Using the clairvoyance of the “Precogs,” the PreCrime police unit, led by Captain John Anderton (Tom Cruise) is able to prevent murders before they occur.  Are these murders guaranteed to happen?  Is it acceptable to lock up someone for a crime they were foreseen to do but never actually committed due to police intervention?
-	•	Hand tracking:  With limited time, every Precog vision must be dissected and deciphered to discern the finer details of each possible crime.  To maximize efficiency, the department has replaced the keyboard, mouse, and regular computer monitor with gestural interaction on an interactive wall.  Through a combination of swiping, pinching, pulling, and more, Anderton is able to used his gloved hands to shuffle through, edit, and interact with the computer interface.
-	•	Full immersion:  Voluntarily used by consumers at VR cafes and induced to would be murderers, exterior neural hookups induce immersion within individual VR pods.
+* Hand tracking:  With limited time, every Precog vision must be dissected and deciphered to discern the finer details of each possible crime.  To maximize efficiency, the department has replaced the keyboard, mouse, and regular computer monitor with gestural interaction on an interactive wall.  Through a combination of swiping, pinching, pulling, and more, Anderton is able to used his gloved hands to shuffle through, edit, and interact with the computer interface.
+* Full immersion:  Voluntarily used by consumers at VR cafes and induced to would be murderers, exterior neural hookups induce immersion within individual VR pods.
 
-03
-Spy Kids 3-D: Game Over
+## 03
+### Spy Kids 3-D: Game Over
 “Game Over” is billed as the first major VR title to hit the market.  Imprisoned within cyberspace, the game’s developer, The Toymaker (Sylvester Stallone), builds the game around himself as a way to trick players into releasing him.  In an attempt to stop him before the consumer release, spy, Carmen Cortez (Alexa Vega) enters the game and becomes trapped, prompting her brother and ex-spy Juni (Daryl Sabara) to unretire and follow her in.  Teaming up with beta testers, they must battle their way through robot battle arenas, street racing, lava rivers and more to stop the Toymaker before it is too late.
-	•	Head mounted display:  Billed as a 3D movie, Juni dons the same headgear as the audience to get his fully immersive experience.  Wearing the simple yet classic red and cyan lenses, he shows what the future could hold for VR with headsets fitting within the profile of modern glasses.
-	•	Locomotion:  To gain a competitive edge, Juni is placed within a zero gravity chamber to provide full range of motion for all movements.
+* Head mounted display:  Billed as a 3D movie, Juni dons the same headgear as the audience to get his fully immersive experience.  Wearing the simple yet classic red and cyan lenses, he shows what the future could hold for VR with headsets fitting within the profile of modern glasses.
+* Locomotion:  To gain a competitive edge, Juni is placed within a zero gravity chamber to provide full range of motion for all movements.
 
-04
-05
-06
-07
-08
-09
-10
-11
-12
-13
-The Congress
+## 04
+## 05
+## 06
+## 07
+## 08
+## 09
+## 10
+## 11
+## 12
+## 13
+### The Congress
 Torn between her career and her family, Robin Wright plays herself in a fictional world in which moviemaking is being disrupted by some of the latest technology.  With the caveat of never being able to act again, Wright is presented with an opportunity to preserve herself digitally so that studios can insert and use her likeness as they wish.  Fast forwarding twenty years after accepting the deal, Wright has become one of the biggest names in the industry for films that she never had to do a physical thing for.  Being recognized as a trailblazer for this breakthrough technology, Wright travels to the award show in an animation zone, an area where chemical inhalation induces a perception of an animated version of yourself.  Defying laws of physics and nature, the animation zone presents Wright with the convolutions of the human mind and another choice to embrace the next generation of moviemaking and technology.
-	•	Image capture: Upon signing the contract, Wright is ushered into a half dome with an array of hundreds of inward facing cameras designed to capture every nook, cranny, and feature of her physical being.  An advanced version of scanning and imaging technologies that are already being used today to preserve the human likenesses.
+* Image capture: Upon signing the contract, Wright is ushered into a half dome with an array of hundreds of inward facing cameras designed to capture every nook, cranny, and feature of her physical being.  An advanced version of scanning and imaging technologies that are already being used today to preserve the human likenesses.
 
-The Zero Theorem
+### The Zero Theorem
 Waiting for a phone call about the meaning of life, computer programmer Qohen Leth (Christoph Waltz) isolated himself as he attempts to crack the Zero Theorem.
-	•	Haptic/body tracking suits:  Leaving only the face open, a VR onesie covers the entire body, relaying both full tracking and haptic responses.  The suit is synced directly with the synapses of the brain and connects to the computer via a cable ponytail.
-	•	Head mounted display: Lacking a headset other than the hood of the haptic suit, the user interacts with a flat screen and can access VR simply by pressing the enter button for full sensory immersion.
-	•	Locomotion:  Though only shown briefly, locomotion for some experiences is accomplished via pedaling and is paired with a gamepad for interaction.
+* Haptic/body tracking suits:  Leaving only the face open, a VR onesie covers the entire body, relaying both full tracking and haptic responses.  The suit is synced directly with the synapses of the brain and connects to the computer via a cable ponytail.
+* Head mounted display: Lacking a headset other than the hood of the haptic suit, the user interacts with a flat screen and can access VR simply by pressing the enter button for full sensory immersion.
+* Locomotion:  Though only shown briefly, locomotion for some experiences is accomplished via pedaling and is paired with a gamepad for interaction.
 
-14
-15
-16
-Holidays: Christmas VR
+## 14
+## 15
+## 16
+### Holidays: Christmas VR
 Debuting at this year’s Tribeca Film Festival, Holidays: Christmas VR stars Seth Green as a hapless dad trying to get his son the hottest Christmas gift on the market, the UVU VR headset.  Not just a movie featuring VR tech, the film is also an exploration in VR storytelling.  Whenever a character in the film puts on the UVU headset, the moviegoer can don their own headset to transform the film from the traditional 2D screen to 360 degrees in a similar way that the red and cyan 3D glasses were used in cinemas in the past.
-	•	Head mounted display: Utilizes a form factor head mounted display that evokes thoughts of the View Master
+* Head mounted display: Utilizes a form factor head mounted display that evokes thoughts of the View Master
 
-Creative Control
+### Creative Control
 Not too far in the future, David (Benjamin Dickinson) lives in a world where all technology has taken a turn towards the simplistic style typically seen at Apple.  David is struggling to balance work and life when he is tasked with overseeing the biggest ad campaign of his career, Augmenta.  Billed as the first actually convincing augmented reality system, David’s time with his prototype only ends up digging himself into a deeper hole.
-	•	Head mounted display:  Built around an open source AR operating system and fit into a clear Wayfarer mold, the Augmenta glasses offer seamless immersion. Similar to technology seen in smartphones, the Augmenta glasses can be spoken to to perform actions.
-	•	Hand tracking:  Beyond spoken word, the hands are the primary source of interaction with the Augmenta interface. Larger menus and data sets are seen to be scrolled through via waving of the hand gestures.  Smaller interactions are generally controlled via touching the tip of the thumb to the tip of different fingers to varied inputs.
+* Head mounted display:  Built around an open source AR operating system and fit into a clear Wayfarer mold, the Augmenta glasses offer seamless immersion. Similar to technology seen in smartphones, the Augmenta glasses can be spoken to to perform actions.
+* Hand tracking:  Beyond spoken word, the hands are the primary source of interaction with the Augmenta interface. Larger menus and data sets are seen to be scrolled through via waving of the hand gestures.  Smaller interactions are generally controlled via touching the tip of the thumb to the tip of different fingers to varied inputs.
 
-Captain America: Civil War
+### Captain America: Civil War
 The latest blockbuster from Marvel, Civil War features a scene originally perceived as a simple flashback to the last time that Tony Stark (Robert Downey Jr.) saw his parents.  Upon further inspection, it turns out that it is actually an on stage projection of the memory directly from a current day Stark wearing augmented reality glasses.
-	•	Head mounted display:  With no greater profile than his normal glasses, Stark is not only able to project his memories but is also able to alter the projection as you would a normal memory.  Called the B.A.R.F. (Binarily Augmented Retro Framing) system, the glasses neurally tap to the hippocampus, the center in the brain associates with emotions and memory.
-17
+* Head mounted display:  With no greater profile than his normal glasses, Stark is not only able to project his memories but is also able to alter the projection as you would a normal memory.  Called the B.A.R.F. (Binarily Augmented Retro Framing) system, the glasses neurally tap to the hippocampus, the center in the brain associates with emotions and memory.
+## 17
 
-acknowledgements: https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/
+acknowledgements:  Other great lists by 
+Tom Buchanan on VR Scout. https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/
+Editor on Extra. http://www.vrfilmpro.com/features/7-examples-of-virtual-realityas-depicted-in-the-1980s-and-90s

@@ -1,85 +1,81 @@
-# 70
-# 71
-# 72
-# 73
-# 74
-# 75
-# 76
-# 77
-# 78
-# 79
-# 80
-# 81
-# 82
+## 70
+## 71
+## 72
+## 73
+## 74
+## 75
+## 76
+## 77
+## 78
+## 79
+## 80
+## 81
+## 82
 ### TRON
 Being one of the earliest films to explore the combination of human computer interaction, TRON is well known for its, at the time, exceptional graphics.  Knowing they stole video game designs from him, arcade bar owner Kevin Flynn (Jeff Bridges) keeps trying to hack into his former employer’s system to prove what they stole from him.  Foiled time and again, he sneaks into their office and inadvertently becomes immersed in cyberspace.
 Full immersion:  Digitized by a laser, Kevin Flynn is downloaded into cyberspace with full presence due to his absence from the real world.
-# 83
+## 83
 ### Brainstorm
 Film directed by Douglas Trumbull (who also led the special effects team on 2001: A Space Odyssey), follows a team of scientists who develop a means of recording memories. These memories can be ‘played back’ and experienced by another person, with full sense of emotion and all senses.
-# 84
-# 85
+## 84
+## 85
 ### The Twilight Zone: Dreams for Sale
 Directed by Tommy Lee Wallace, this short (a mere nine minutes long) episode of The Twilight Zone sees Meg Foster in the lead role as a woman on an idyllic picnic with her husband and two daughters. All seems well until Foster’s character notices her husband’s speech and the scenery stuttering and repeating. She becomes increasingly confused before awakening in a “Dreamatron” VR machine running a “Country Picnic” programme.
-# 86
-# 87
+## 86
+## 87
 ### Star Trek: The Next Generation
 The Holodeck was introduced into the Star Trek universe in 1987 with the start of Star Trek: The Next Generation, and gave rise to some great episodes. The concept differs from most other VR concepts shown in film; it is more advanced and does not rely on clunky headsets of any kind. Instead, the Holodeck uses such phenomena as transported matter, tractor beams and shaped force fields to create a VR environment that is pretty much indistinguishable from reality.
-# 88
-# 89
+## 88
+## 89
 ### Back to the Future Part 2
-# 90
-# 91
-# 92
+## 90
+## 91
+## 92
 ### The Lawnmower Man
 Researching methods to increase intelligence, Dr. Lawrence Angelo (Pierce Brosnan) begins experimenting on chimpanzees using a combination of drugs and VR.  Seeing success, he advances to testing his methods on an intellectually disabled landscaper, Jobe (Jeff Fahey).  Jobe is run through a variety of advanced VR simulations and begins to see astounding results.
 * Head mounted display: Resembling the consumer headsets of today, life-like field of view and motion is relayed.
 * Bodysuit: Skin tight body suits are worn to both provide tracking of the arms and legs as well as relay touch sensations via haptic technology.
-*Locomotion:  Taking advantage of a human sized gyroscope called an aerotrim, Jobe and Dr. Angela are able to move about and explore the virtual space.
-# 93
+* Locomotion:  Taking advantage of a human sized gyroscope called an aerotrim, Jobe and Dr. Angela are able to move about and explore the virtual space.
+## 93
 ### Arcade
 Dante’s Inferno, the local arcade, has just installed a new VR game called “Arcade.”  Showing up to try Dante’s Inferno, Alex Manning (Megan Ward) and her friends are immediately drawn to play.  Once in the game, the main villain and namesake, Arcade acts as an overlord, challenging players, learning and adapting as gameplay progresses.  Little do they know, any players that lose are then imprisoned within the game and disappear from the real world.  As Alex and her remaining friends try to reverse the effects of the game they find the plans for world domination through at home models.
 * Arcade cabinet:  Embracing arcades in a similar way that we’ve seen VR appear in arcades today, the Arcade cabinet has players step in and sit down in a photobooth sized game pod.  With the pod came a viewer for visual output that resembles the stereoscopes of the 1800’s that were some of of the first devices to separate left and right eye views to create a single image.  The cabinet also came with an attached set of haptic gloves for both tracking and sense of touch.
 * Head mounted display:   With expansion to at home devices came the transition away from an arcade cabinet to setups a little closer to what you’ll see coming from the Big Three (Oculus, HTC, and Sony).  The Arcade head mounted display has the profile of ski goggle and includes eye holes for assumed pass through vision.
 * Haptic gloves:  Similar to the gloves attached to the cabinet, the at home version exoskeleton design brings hand tracking and touch to VR.
-# 94
+## 94
 ### Brainscan
 Billed as an interactive horror game, Brainscan is the latest videogame to grab the interest of Michael Brower (Edward Furlong).  Once gameplay begins, Michael is introduced to Trickster, a visual mix between David Bowie and Freddy Krueger, who acts as his guide through a story filled with murder and dismemberment.  Upon waking up the next morning, Michael finds that all of the events he remembers from his play of Brainscan have also coincidentally occurred around his neighborhood in real life.  Did Trickster and his Brainscan make him a murderer?
 * Full immersion: A videogame that induces hypnosis, Brainscan interfaces with the subconscious of any player to bend them to the will of the game.  Once controlled, all players believe they are playing a game when they are actually acting in real life.
 ### Disclosure
 Michael Douglas and Demi Moore become entangled in a complex power struggle within an expanding tech company, DigiCom.  Losing his own network access, Douglas’s character must commandeer one of DigiCom’s VR systems to track down the files to clear his name.
-	•	Head mounted display:  With a similar profile to Sony’s Playstation VR the headset is then also depicted within VR.  Within the program, the profile is mimicked on the user’s avatar but is instead used as an augmented reality device with a heads up display.
-	•	Locomotion:  Placed in the middle of the tracking area is an omnidirectional treadmill that  that allows the user to walk in any direction.
-	•	Body/hand tracking:  Strikingly similar to the Lighthouse sensors shipped with the HTC Vive, two cameras placed in opposite corners emit lasers that scan up and down to track the motions of both the body and hands.
-	•	Hand interaction:  Initiated via keyboard and mouse input, once in the VR program a single glove is worn and used to interact with screens and items.
-95
-Strange Days
+* Head mounted display:  With a similar profile to Sony’s Playstation VR the headset is then also depicted within VR.  Within the program, the profile is mimicked on the user’s avatar but is instead used as an augmented reality device with a heads up display.
+* Locomotion:  Placed in the middle of the tracking area is an omnidirectional treadmill that  that allows the user to walk in any direction.
+* Body/hand tracking:  Strikingly similar to the Lighthouse sensors shipped with the HTC Vive, two cameras placed in opposite corners emit lasers that scan up and down to track the motions of both the body and hands.
+* Hand interaction:  Initiated via keyboard and mouse input, once in the VR program a single glove is worn and used to interact with screens and items.
+## 95
+### Strange Days
 American sci-fi movie directed by Kathryn Bigelow, offers a dystopian vision of Los Angeles in 1999. The premise of the film is built around an illegal electronic device called a SQUID, which is able to record events as they unfold directly from the wearer’s cerebral cortex. These memories are stored in device akin to a MiniDisc and can be re-experienced in full immersive VR by another person using a SQUID.
-
-Hackers
+### Hackers
 Known to be a cult classic of the cyber punk 90s, Hackers is most famous for, you guessed it, it’s portrayal and focus around computer hacking.  Moving to a new school, Dade “Crash Override, formally Zero Cool” Murphy (Johnny Lee Miller) works his way into a hacker group that introduces him to Kate “Acid Burn” Libby (Angelina Jolie).  Together, they end up entrenched in a plot that leads them to trying to hack into Eugene “The Plague” Belford’s (Fisher Stevens) formidable Gibson supercomputer of Ellingson Mineral Company.
-	•	Head mounted display: Used during the Gibson hack attempt, Dade wears a Google Glass like headset with a drop down heads up display.  On the display, Dade is able to fly through the low poly virtual environment of the Gibson.
-	•	Consumer VR:  Seen used by Belford, Hackers actually features a VR rig that, at the time, could be found in arcades across the country.  Combining headset, hack trackers, and omnidirectional treadmill, Belford uses his Virtuality rig as a gaming escape.
-
-Johnny Mnemonic
+* Head mounted display: Used during the Gibson hack attempt, Dade wears a Google Glass like headset with a drop down heads up display.  On the display, Dade is able to fly through the low poly virtual environment of the Gibson.
+* Consumer VR:  Seen used by Belford, Hackers actually features a VR rig that, at the time, could be found in arcades across the country.  Combining headset, hack trackers, and omnidirectional treadmill, Belford uses his Virtuality rig as a gaming escape.
+###Johnny Mnemonic
 Making his first appearance in a VR movie, Keanu Reeves (Johnny) lives in a future where one of the only secure ways to transport data is to upload it into storage devices implanted in the brain.  With two different organizations hunting him down for this information, Johnny finds the need to access the Net via his futuristic VR tech.
-	•	Head mounted display:  Fitting the mold of a headset that Apple would produce, Johnny dons a sleek chrome arc that covers from forehead to nose.
-	•	Hand tracking: Lacking a keyboard or mouse, Johnny fits his hands into exoskeleton gloves that provide him with all of the motions of the finger and hands.  Though, they do not appear to provide any haptic feedback.
-
-Virtuosity
+* Head mounted display:  Fitting the mold of a headset that Apple would produce, Johnny dons a sleek chrome arc that covers from forehead to nose.
+* Hand tracking: Lacking a keyboard or mouse, Johnny fits his hands into exoskeleton gloves that provide him with all of the motions of the finger and hands.  Though, they do not appear to provide any haptic feedback.
+### Virtuosity
 Before releasing it to the masses, LAPD is using VR to train their officers in realistic simulations.  To get the best out of their officers they’ve developed the ultimate criminal, SID 6.7 (Sadistic, Intelligent, Dangerous), by combining the genetic algorithms of the cruelest villains of history.  Housed within his own USB esque module, SID tricks a developer into uploading his algorithm into an android,  bringing him to the real world and continuing a game of cat mouse that began in VR between him and cop, Lt. Parker Barnes (Denzel Washington).
-	•	Locomotion/Body Tracking:  Resembling an amusement park ride, any cops put into training are strapped into an inverted roller coaster chair with an attached headset.
-	•	Head mounted display:  Directly incorporated and supported by the simulator arm, the large domed headset is not a hindrance to the user at all.  While immersed in the simulation, the user has full sensory incorporation via a neural connection.
-96
-The Lawnmower Man 2: Beyond Cyberspace
+* Locomotion/Body Tracking:  Resembling an amusement park ride, any cops put into training are strapped into an inverted roller coaster chair with an attached headset.
+* Head mounted display:  Directly incorporated and supported by the simulator arm, the large domed headset is not a hindrance to the user at all.  While immersed in the simulation, the user has full sensory incorporation via a neural connection.
+## 96
+### The Lawnmower Man 2: Beyond Cyberspace
 The original film's star Jeff Fahey was sensible enough to turn down this tawdry sequel, so he was replaced, in an inspired bit of meta casting, by Matt Frewer - previously famous for playing AI character Max Headroom in the 1980s.
 Unfortunately, the creative inspiration ends there, as Jobe hatches another tedious plan to take over cyberspace. The one proper link with the previous film is young actor Austin O'Brien, who returns to play the now teenaged Peter Parkette - Jobe's old next-door neighbour. The sex, violence and chimps with guns of the original have all been airbrushed out of this more child-friendly sequel - Grant Morrison was even approached to write the thing at one point - and Beyond Cyberspace loses the last shred of its so-bad-it's-good charm as a result.
-
-97
-Abres Los Ojos
+## 97
+### Abres Los Ojos
 Spanish film directed and by co-written Alejandro Amenábar, definitely falls into the dystopian VR camp. The film, which was given the Hollywood treatment by Russell Crow in Vanilla Sky in 2001, involves cryogenics in addition to recorded and manipulated memories. 
-98
-99
+## 98
+## 99
 The Matrix
 directed by Wachowski sisters, remains the king of films based on the premise of virtual reality. Reality as all humans perceive it being a mere illusion created by sentient machines to subdue the human population while their bodies’ heat and electrical activity are used as a source of energy. Reeves’ character, computer programmer Neo, discovers the truth and is drawn into a rebellion against the machines.
 

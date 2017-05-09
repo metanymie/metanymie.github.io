@@ -1,3 +1,5 @@
+[90](##90)
+
 ## 70
 ## 71
 ## 72
@@ -51,6 +53,7 @@ Researching methods to increase intelligence, Dr. Lawrence Angelo (Pierce Brosna
 * Head mounted display: Resembling the consumer headsets of today, life-like field of view and motion is relayed.
 * Bodysuit: Skin tight body suits are worn to both provide tracking of the arms and legs as well as relay touch sensations via haptic technology.
 * Locomotion:  Taking advantage of a human sized gyroscope called an aerotrim, Jobe and Dr. Angela are able to move about and explore the virtual space.
+
 ## 93
 ### Arcade
 Dante’s Inferno, the local arcade, has just installed a new VR game called “Arcade.”  Showing up to try Dante’s Inferno, Alex Manning (Megan Ward) and her friends are immediately drawn to play.  Once in the game, the main villain and namesake, Arcade acts as an overlord, challenging players, learning and adapting as gameplay progresses.  Little do they know, any players that lose are then imprisoned within the game and disappear from the real world.  As Alex and her remaining friends try to reverse the effects of the game they find the plans for world domination through at home models.
@@ -144,6 +147,9 @@ Murder no longer occurs in the future. Using the clairvoyance of the “Precogs,
 ## 09
 ### Avatar
 James Cameron's epic 3D film features humans in a lab who use virtual reality to interact with the Na'vi people who live on a distant moon.
+
+### Gamer
+American science fiction action thriller film written and directed by Mark Neveldine and Brian Taylor.[3] The film stars Gerard Butler as a participant in an online game in which participants can control human beings as players, and Logan Lerman as the player who controls him.
 
 ### Ghost Machine
 Don't believe the lack of hype, Ghost Machine ain't all that bad. It's a top notch concept perhaps slightly ruined by the fact that the VR becomes a vehicle for the film's real purpose as a slasher. All the same, it's one of the smoothest and most modern portrayals of a computer-generated immersive experience that you'll see on screen.

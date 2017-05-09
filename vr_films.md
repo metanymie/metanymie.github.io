@@ -2,6 +2,10 @@
 ## 71
 ## 72
 ## 73
+### World on a Wire / Welt Am Draht
+For fans of 1970s sci-fi - think the colours and paranoia of A Clockwork Orange and The Andromeda Strain - then German virtual reality-focused Welt Am Draht, or World on Wire, is the classic missing from your set.
+It's based on the same book as The Thirteenth Floor, so once again centres around the murder of the man who created a virtual world known as the Simulacron. While there's no difference in the major plot lines, what makes this one worth watching all the same is the claustrophobic sense of conspiracy that only Cold War thinking could truly capture. The stern German acting is also rather fun.
+
 ## 74
 ## 75
 ## 76
@@ -10,13 +14,19 @@
 ## 79
 ## 80
 ## 81
+
 ## 82
 ### TRON
 Being one of the earliest films to explore the combination of human computer interaction, TRON is well known for its, at the time, exceptional graphics.  Knowing they stole video game designs from him, arcade bar owner Kevin Flynn (Jeff Bridges) keeps trying to hack into his former employer’s system to prove what they stole from him.  Foiled time and again, he sneaks into their office and inadvertently becomes immersed in cyberspace.
 Full immersion:  Digitized by a laser, Kevin Flynn is downloaded into cyberspace with full presence due to his absence from the real world.
+
 ## 83
 ### Brainstorm
 Film directed by Douglas Trumbull (who also led the special effects team on 2001: A Space Odyssey), follows a team of scientists who develop a means of recording memories. These memories can be ‘played back’ and experienced by another person, with full sense of emotion and all senses.
+
+### Videodrome
+Canadian science fiction film written and directed by David Cronenberg, starring James Woods, Sonja Smits, and singer Deborah Harry. Set in Toronto during the early 1980s, it follows the CEO of a small UHF television station who stumbles upon a broadcast signal featuring extreme violence and torture. The layers of deception and mind-control conspiracy unfold as he uncovers the signal's source and loses touch with reality in a series of increasingly bizarre and violent organic hallucinations. The film has been described as "techno-surrealist".
+
 ## 84
 ## 85
 ### The Twilight Zone: Dreams for Sale
@@ -31,6 +41,9 @@ The Holodeck was introduced into the Star Trek universe in 1987 with the start o
 Robert Zemeckis’s 1989 sequel to Back to the Future offers only a glimpse of virtual reality in the film’s depiction of 2015, which was still 27 years away when the film went into production. It’s not quite clear whether the JVC-branded goggles shown are for virtual reality or augmented reality, although Marty Junior’s interaction with his surroundings suggests the latter. Either way, the filmmakers made a pretty good prediction, with Google Glass and Samsung Gear VR both being available in 2015.
 
 ## 90
+### Total Recall
+American science fiction action film directed by Paul Verhoeven, starring Arnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Ronny Cox and Michael Ironside. The film is loosely based on the Philip K. Dick story "We Can Remember It for You Wholesale." It tells the story of a construction worker who is having troubling dreams about Mars and a mysterious woman there.
+
 ## 91
 ## 92
 ### The Lawnmower Man
@@ -44,16 +57,19 @@ Dante’s Inferno, the local arcade, has just installed a new VR game called “
 * Arcade cabinet:  Embracing arcades in a similar way that we’ve seen VR appear in arcades today, the Arcade cabinet has players step in and sit down in a photobooth sized game pod.  With the pod came a viewer for visual output that resembles the stereoscopes of the 1800’s that were some of of the first devices to separate left and right eye views to create a single image.  The cabinet also came with an attached set of haptic gloves for both tracking and sense of touch.
 * Head mounted display:   With expansion to at home devices came the transition away from an arcade cabinet to setups a little closer to what you’ll see coming from the Big Three (Oculus, HTC, and Sony).  The Arcade head mounted display has the profile of ski goggle and includes eye holes for assumed pass through vision.
 * Haptic gloves:  Similar to the gloves attached to the cabinet, the at home version exoskeleton design brings hand tracking and touch to VR.
+
 ## 94
 ### Brainscan
 Billed as an interactive horror game, Brainscan is the latest videogame to grab the interest of Michael Brower (Edward Furlong).  Once gameplay begins, Michael is introduced to Trickster, a visual mix between David Bowie and Freddy Krueger, who acts as his guide through a story filled with murder and dismemberment.  Upon waking up the next morning, Michael finds that all of the events he remembers from his play of Brainscan have also coincidentally occurred around his neighborhood in real life.  Did Trickster and his Brainscan make him a murderer?
 * Full immersion: A videogame that induces hypnosis, Brainscan interfaces with the subconscious of any player to bend them to the will of the game.  Once controlled, all players believe they are playing a game when they are actually acting in real life.
+
 ### Disclosure
 Michael Douglas and Demi Moore become entangled in a complex power struggle within an expanding tech company, DigiCom.  Losing his own network access, Douglas’s character must commandeer one of DigiCom’s VR systems to track down the files to clear his name.
 * Head mounted display:  With a similar profile to Sony’s Playstation VR the headset is then also depicted within VR.  Within the program, the profile is mimicked on the user’s avatar but is instead used as an augmented reality device with a heads up display.
 * Locomotion:  Placed in the middle of the tracking area is an omnidirectional treadmill that  that allows the user to walk in any direction.
 * Body/hand tracking:  Strikingly similar to the Lighthouse sensors shipped with the HTC Vive, two cameras placed in opposite corners emit lasers that scan up and down to track the motions of both the body and hands.
 * Hand interaction:  Initiated via keyboard and mouse input, once in the VR program a single glove is worn and used to interact with screens and items.
+
 ## 95
 ### Strange Days
 American sci-fi movie directed by Kathryn Bigelow, offers a dystopian vision of Los Angeles in 1999. The premise of the film is built around an illegal electronic device called a SQUID, which is able to record events as they unfold directly from the wearer’s cerebral cortex. These memories are stored in device akin to a MiniDisc and can be re-experienced in full immersive VR by another person using a SQUID.
@@ -61,14 +77,17 @@ American sci-fi movie directed by Kathryn Bigelow, offers a dystopian vision of 
 Known to be a cult classic of the cyber punk 90s, Hackers is most famous for, you guessed it, it’s portrayal and focus around computer hacking.  Moving to a new school, Dade “Crash Override, formally Zero Cool” Murphy (Johnny Lee Miller) works his way into a hacker group that introduces him to Kate “Acid Burn” Libby (Angelina Jolie).  Together, they end up entrenched in a plot that leads them to trying to hack into Eugene “The Plague” Belford’s (Fisher Stevens) formidable Gibson supercomputer of Ellingson Mineral Company.
 * Head mounted display: Used during the Gibson hack attempt, Dade wears a Google Glass like headset with a drop down heads up display.  On the display, Dade is able to fly through the low poly virtual environment of the Gibson.
 * Consumer VR:  Seen used by Belford, Hackers actually features a VR rig that, at the time, could be found in arcades across the country.  Combining headset, hack trackers, and omnidirectional treadmill, Belford uses his Virtuality rig as a gaming escape.
+
 ### Johnny Mnemonic
 Making his first appearance in a VR movie, Keanu Reeves (Johnny) lives in a future where one of the only secure ways to transport data is to upload it into storage devices implanted in the brain.  With two different organizations hunting him down for this information, Johnny finds the need to access the Net via his futuristic VR tech.
 * Head mounted display:  Fitting the mold of a headset that Apple would produce, Johnny dons a sleek chrome arc that covers from forehead to nose.
 * Hand tracking: Lacking a keyboard or mouse, Johnny fits his hands into exoskeleton gloves that provide him with all of the motions of the finger and hands.  Though, they do not appear to provide any haptic feedback.
+
 ### Virtuosity
 Before releasing it to the masses, LAPD is using VR to train their officers in realistic simulations.  To get the best out of their officers they’ve developed the ultimate criminal, SID 6.7 (Sadistic, Intelligent, Dangerous), by combining the genetic algorithms of the cruelest villains of history.  Housed within his own USB esque module, SID tricks a developer into uploading his algorithm into an android,  bringing him to the real world and continuing a game of cat mouse that began in VR between him and cop, Lt. Parker Barnes (Denzel Washington).
 * Locomotion/Body Tracking:  Resembling an amusement park ride, any cops put into training are strapped into an inverted roller coaster chair with an attached headset.
 * Head mounted display:  Directly incorporated and supported by the simulator arm, the large domed headset is not a hindrance to the user at all.  While immersed in the simulation, the user has full sensory incorporation via a neural connection.
+
 ## 96
 ### The Lawnmower Man 2: Beyond Cyberspace
 The original film's star Jeff Fahey was sensible enough to turn down this tawdry sequel, so he was replaced, in an inspired bit of meta casting, by Matt Frewer - previously famous for playing AI character Max Headroom in the 1980s.
@@ -91,7 +110,6 @@ Hannon Fuller (Armin Mueller-Stahl) recently completed a VR environment that per
 * Head mounted display:  Slimmed down from the MRI-like machine is an over ear headphone style headset.  Assumed to be a neural data transfer, all that Hall must do is lay flat on a table and he is immersed.
 
 ## 00
-
 ### The Cell
 In a situation that is strikingly similar to the Apple vs. FBI standoff, psychologist Catherine Deane (Jennifer Lopez) and Agent Peter Novak (Vince Vaughn) must enter the mind of a comatose serial killer in order to find the location of his latest victim before she dies.  Using the latest VR technology, entering his mind means results in full presence and experience of the twisted mind of a killer.
 * Head mounted display:  Suspended horizontally by cables, Deane and Novak use a combination of chemicals and a non traditional cloth head mounted display to sensory immersion.  With circuitry woven in and localized over the face, both parties have a cloth placed on their head.  The chemicals, injected into the arm, induce a sleep like trance but allow mind mapping and the transmission of signals from one mind to another.
@@ -126,9 +144,18 @@ Murder no longer occurs in the future. Using the clairvoyance of the “Precogs,
 ## 09
 ### Avatar
 James Cameron's epic 3D film features humans in a lab who use virtual reality to interact with the Na'vi people who live on a distant moon.
+
+### Ghost Machine
+Don't believe the lack of hype, Ghost Machine ain't all that bad. It's a top notch concept perhaps slightly ruined by the fact that the VR becomes a vehicle for the film's real purpose as a slasher. All the same, it's one of the smoothest and most modern portrayals of a computer-generated immersive experience that you'll see on screen.
+Probably quite realistically, this advanced tech is the product and prized asset of the military and used to train their soldiers on battle manoeuvres. Of course, it gets pinched for a bit of weekend war gaming by some of the troops who decide to take a stroll through the virtual in a haunted prison. Whoops. Maybe not a must but enjoyably British.
 ## 10
 ### TRON: Legacy
 The movie is, of course, a sequel to the 1982 classic, but both feature a digital world, good vs. evil, some killer digital effects, and Jeff Bridges.
+
+### Inception
+What if the virtual reality spaces you explored were someone else's dreams, and by extension, the hidden corners of someone's mind? In Inception, Cobb (Leonardo DiCaprio) leads a crack team of specialists through several layers of dreams within dreams in order to plant an idea for the purposes of corporate sabotage.
+
+Through the use of one of his specialists, known as the architect (Ellen Page), travelers inside the dream space can bend the rules of physics and shift the landscape to help make the mission go smoothly. While not a digital experience, the simulated reality in Inception is still a fascinating exploration of the medium.
 ## 11
 ## 12
 ## 13
@@ -166,6 +193,8 @@ Debuting at this year’s Tribeca Film Festival, Holidays: Christmas VR stars Se
 
 ## 17
 
-acknowledgements:  Other great lists by 
-Tom Buchanan on VR Scout. https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/
-Editor on Extra. http://www.vrfilmpro.com/features/7-examples-of-virtual-realityas-depicted-in-the-1980s-and-90s
+acknowledgements:  
+First sourced on other great lists by 
+Tom Buchanan on [VR Scout](https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/).
+Editor on [Extra](http://www.vrfilmpro.com/features/7-examples-of-virtual-realityas-depicted-in-the-1980s-and-90s).
+Dan Sung and Sophie Charara on [Wareable](https://www.wareable.com/vr/vrs-the-star-850).

@@ -98,6 +98,12 @@ In a situation that is strikingly similar to the Apple vs. FBI standoff, psychol
 * Haptic/body tracking suit:  Inspired by our own body’s inner workings, the haptic suits are designed to mimic the layout of the muscles; in both look and function.  With appropriately placed external muscles, as the mind attempts to move about the consciousness, the suit induces movement.
 
 ## 01
+### Avalon
+Something of an oddity as a Polish-Japanese collaboration, Avalon is a bit of an art house flick and rather a beautiful one at that. Like all on this list, it's set in future and one where the youth of the day are addicted to an illegal VR game that's best described as a fully-immersive version of Call of Duty.
+It's filmed in a stylised sepia tint and with a haunting soundtrack to match scored by Kenji Kawai who also write the music for the Ring films as well as the Manga classic Ghost in the Shell. Don't expect the plot to be too clear nor the pace of the action to be that quick, but the dark depiction of the virtual and consequent blurring of the lines is very nicely done.
+
+### Vanilla Sky
+Vanilla Sky is kind of like a trippy version of The Truman Show. Tom Cruise's character David thinks everything is A-OK until he notices strange glitches - people who shouldn't be there and visions. Ultimately, he discovers that he is part of "Life Extension," a service that essentially puts sick or dying people in a lucid dream state until a cure for their ailment is found.
 
 ## 02
 
@@ -118,7 +124,11 @@ Murder no longer occurs in the future. Using the clairvoyance of the “Precogs,
 ## 07
 ## 08
 ## 09
+### Avatar
+James Cameron's epic 3D film features humans in a lab who use virtual reality to interact with the Na'vi people who live on a distant moon.
 ## 10
+### TRON: Legacy
+The movie is, of course, a sequel to the 1982 classic, but both feature a digital world, good vs. evil, some killer digital effects, and Jeff Bridges.
 ## 11
 ## 12
 ## 13
@@ -135,18 +145,25 @@ Waiting for a phone call about the meaning of life, computer programmer Qohen Le
 ## 14
 ## 15
 ## 16
-### Holidays: Christmas VR
-Debuting at this year’s Tribeca Film Festival, Holidays: Christmas VR stars Seth Green as a hapless dad trying to get his son the hottest Christmas gift on the market, the UVU VR headset.  Not just a movie featuring VR tech, the film is also an exploration in VR storytelling.  Whenever a character in the film puts on the UVU headset, the moviegoer can don their own headset to transform the film from the traditional 2D screen to 360 degrees in a similar way that the red and cyan 3D glasses were used in cinemas in the past.
-* Head mounted display: Utilizes a form factor head mounted display that evokes thoughts of the View Master
+
+### Black Mirror
+ Season 3 of Charlie Brooker's endlessly imaginative dystopian anthology series Black Mirror includes a couple of episodes which deal with virtual reality. In the lovely but melancholy, hour-long San Junipero, it is only revealed towards the end of the TV movie episode that the 80s party town in which two girls meet is inside a virtual world.
+
+In Playtest, meanwhile, the future of VR and mixed reality - specifically gaming - is much more sinister and scary. In this version, the tech works via an implant and the gameplay is generated based on the individual's worst fears. Watch it on Netflix now.
+
+### Captain America: Civil War
+The latest blockbuster from Marvel, Civil War features a scene originally perceived as a simple flashback to the last time that Tony Stark (Robert Downey Jr.) saw his parents.  Upon further inspection, it turns out that it is actually an on stage projection of the memory directly from a current day Stark wearing augmented reality glasses.
+* Head mounted display:  With no greater profile than his normal glasses, Stark is not only able to project his memories but is also able to alter the projection as you would a normal memory.  Called the B.A.R.F. (Binarily Augmented Retro Framing) system, the glasses neurally tap to the hippocampus, the center in the brain associates with emotions and memory.
 
 ### Creative Control
 Not too far in the future, David (Benjamin Dickinson) lives in a world where all technology has taken a turn towards the simplistic style typically seen at Apple.  David is struggling to balance work and life when he is tasked with overseeing the biggest ad campaign of his career, Augmenta.  Billed as the first actually convincing augmented reality system, David’s time with his prototype only ends up digging himself into a deeper hole.
 * Head mounted display:  Built around an open source AR operating system and fit into a clear Wayfarer mold, the Augmenta glasses offer seamless immersion. Similar to technology seen in smartphones, the Augmenta glasses can be spoken to to perform actions.
 * Hand tracking:  Beyond spoken word, the hands are the primary source of interaction with the Augmenta interface. Larger menus and data sets are seen to be scrolled through via waving of the hand gestures.  Smaller interactions are generally controlled via touching the tip of the thumb to the tip of different fingers to varied inputs.
 
-### Captain America: Civil War
-The latest blockbuster from Marvel, Civil War features a scene originally perceived as a simple flashback to the last time that Tony Stark (Robert Downey Jr.) saw his parents.  Upon further inspection, it turns out that it is actually an on stage projection of the memory directly from a current day Stark wearing augmented reality glasses.
-* Head mounted display:  With no greater profile than his normal glasses, Stark is not only able to project his memories but is also able to alter the projection as you would a normal memory.  Called the B.A.R.F. (Binarily Augmented Retro Framing) system, the glasses neurally tap to the hippocampus, the center in the brain associates with emotions and memory.
+### Holidays: Christmas VR
+Debuting at this year’s Tribeca Film Festival, Holidays: Christmas VR stars Seth Green as a hapless dad trying to get his son the hottest Christmas gift on the market, the UVU VR headset.  Not just a movie featuring VR tech, the film is also an exploration in VR storytelling.  Whenever a character in the film puts on the UVU headset, the moviegoer can don their own headset to transform the film from the traditional 2D screen to 360 degrees in a similar way that the red and cyan 3D glasses were used in cinemas in the past.
+* Head mounted display: Utilizes a form factor head mounted display that evokes thoughts of the View Master
+
 ## 17
 
 acknowledgements:  Other great lists by 

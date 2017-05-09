@@ -50,7 +50,7 @@
 [2014](#2014) ◆ 
 [2015](#2015) ◆ 
 [2016](#2016) ◆ 
-[2017](#2017) ◆ 
+[2017](#2017) 
 
 ## 1970
 ## 1971
@@ -251,8 +251,11 @@ Debuting at this year’s Tribeca Film Festival, Holidays: Christmas VR stars Se
 
 ## 2017
 
-acknowledgements:  
-First sourced on other great lists by 
+### Acknowledgements:  
+First sourced on other great lists by: 
+
 Tom Buchanan on [VR Scout](https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/).
+
 Editor on [Extra](http://www.vrfilmpro.com/features/7-examples-of-virtual-realityas-depicted-in-the-1980s-and-90s).
+
 Dan Sung and Sophie Charara on [Wareable](https://www.wareable.com/vr/vrs-the-star-850).

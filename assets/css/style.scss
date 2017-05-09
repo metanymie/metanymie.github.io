@@ -110,6 +110,8 @@ img {
 
 header {
   width:270px;
+  position: fixed;
+  background-color: white;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -175,7 +177,6 @@ header ul a strong {
 
 section {
   width:500px;
-  float:right;
   padding-bottom:50px;
 }
 

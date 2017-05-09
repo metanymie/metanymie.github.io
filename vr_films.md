@@ -1,3 +1,5 @@
+A list of films about VR, including those happening before the real advent of VR; a timeline of VR imaginaries.
+
 [1970](#1970) ◆ 
 [1971](#1971) ◆ 
 [1972](#1972) ◆ 
@@ -82,6 +84,9 @@ Film directed by Douglas Trumbull (who also led the special effects team on 2001
 Canadian science fiction film written and directed by David Cronenberg, starring James Woods, Sonja Smits, and singer Deborah Harry. Set in Toronto during the early 1980s, it follows the CEO of a small UHF television station who stumbles upon a broadcast signal featuring extreme violence and torture. The layers of deception and mind-control conspiracy unfold as he uncovers the signal's source and loses touch with reality in a series of increasingly bizarre and violent organic hallucinations. The film has been described as "techno-surrealist".
 
 ## 1984
+### Dreamscape
+A young psychic on the run from himself is recruited by a government agency experimenting with the use of the dream-sharing technology and is given the inverse task of planting an idea into the mind of the U.S. president.
+
 ## 1985
 ### The Twilight Zone: Dreams for Sale
 Directed by Tommy Lee Wallace, this short (a mere nine minutes long) episode of The Twilight Zone sees Meg Foster in the lead role as a woman on an idyllic picnic with her husband and two daughters. All seems well until Foster’s character notices her husband’s speech and the scenery stuttering and repeating. She becomes increasingly confused before awakening in a “Dreamatron” VR machine running a “Country Picnic” programme.
@@ -199,6 +204,9 @@ Murder no longer occurs in the future. Using the clairvoyance of the “Precogs,
 ## 2009
 ### Avatar
 James Cameron's epic 3D film features humans in a lab who use virtual reality to interact with the Na'vi people who live on a distant moon.
+
+### Dreamscape
+A thrill-seeking Man signs up with Dreamscape Inc, provider of electronic dreams and vivid fantasies. Transformed into an unstoppable Courier, he enters a world of corporate espionage. Hunted by agents of the State and aided by unlikely allies, he carries out his mission with brutal efficiency. However, illusion quickly turns into nightmare as reality and fantasy blur.
 
 ### Gamer
 American science fiction action thriller film written and directed by Mark Neveldine and Brian Taylor.[3] The film stars Gerard Butler as a participant in an online game in which participants can control human beings as players, and Logan Lerman as the player who controls him.

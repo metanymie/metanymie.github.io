@@ -1,3 +1,5 @@
+## Micro-lectures from Critical Commons
+
 [Intertwining Virtual Space and Reality](http://www.criticalcommons.org/Members/ccManager/clips/a-virtual-reality-head-mounted-display-appears-to)
 by Paris-Lapazelle Moore
 

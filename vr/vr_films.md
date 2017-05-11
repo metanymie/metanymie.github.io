@@ -407,6 +407,8 @@ Debuting at this year’s Tribeca Film Festival, Holidays: Christmas VR stars Se
 ### Acknowledgements:  
 First sourced on other great lists by: 
 
-Tom Buchanan on [VR Scout](https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/).  Editor on [Extra](http://www.vrfilmpro.com/features/7-examples-of-virtual-realityas-depicted-in-the-1980s-and-90s).  Dan Sung and Sophie Charara on [Wareable](https://www.wareable.com/vr/vrs-the-star-850).
+Tom Buchanan on [VR Scout](https://vrscout.com/news/how-hollywood-predicted-vr-in-movies/).  
+Editor on [Extra](http://www.vrfilmpro.com/features/7-examples-of-virtual-realityas-depicted-in-the-1980s-and-90s).  
+Dan Sung and Sophie Charara on [Wareable](https://www.wareable.com/vr/vrs-the-star-850).
 
 Thoughts on VR on [Critical Commons]()

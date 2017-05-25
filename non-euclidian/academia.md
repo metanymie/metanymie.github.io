@@ -12,6 +12,10 @@
 ### Jean Piaget perception of space as "gradual construction"
 *(via Hansen 624, nbp 19)*
 
+### Implicate and explicate order
+*(via Devin Gibbs)*
+In his book Wholeness and the Implicate Order, Bohm uses these notions to describe how the same phenomenon might look different, or might be characterized by different principal factors, in different contexts such as at different scales.[1] The implicate order, also referred to as the "enfolded" order, is seen as a deeper and more fundamental order of reality. In contrast, the explicate or "unfolded" order include the abstractions that humans normally perceive.
+
 ## Biblio notes
 
 ### Hansen, Mark B. N. "The Digital Topography of Mark Z. Danielewski's House of Leaves."
@@ -30,3 +34,11 @@ Hansen, Mark B. N. "The Digital Topography of Mark Z. Danielewski's House of Lea
 
 ### Doob, Penelope Reed. "The Idea of the Labyrinth from Classical Antiquity Through the Middle Ages."
 
+*via David Leblanc:*
+
+### Eve Sedgwick "Shame and its Sisters"
+### Silvan Tomkins
+### Vivian Sobchack "Breadcrumbs in the Forest: Three Meditations on Being Lost in Space"
+
+*via Devin Gibbs:*
+### 	David Bohm, F. David Peat "Science, Order, and Creativity"

@@ -1,5 +1,5 @@
 ## Digital Futures
-[Admission Submission](../Digital_Futures/ResearchProposal.md)
+[Admission Submission](../Digital_Futures/ResearchProposal)
 
 ## Virtual Reality
 [VR filmography before VR](../vr/vr_films)

@@ -1,10 +1,10 @@
 Here are the documents that got me into grad school:
 
-My research proposal  
-My letter of intent  
-My portfolio
+[My research proposal](#RESEARCH-PROPOSAL-FOR-DIGITAL-FUTURES-(M.A.))  
+[My letter of intent](#letter-of-intent)  
+[My portfolio]()
 
-#### Program Proposal for Special Individualized Program (M.A.)
+#### RESEARCH PROPOSAL FOR DIGITAL FUTURES (M.A.)
 
 ##### Submitted by Roxanne Baril-Bédard, January 2017
 
@@ -60,3 +60,21 @@ Specifically, I am interested in three areas: (1) digital (plurilocative) embodi
 My research has another concrete goal as well. Through these explorations towards designing the sublime, my findings will serve other multimedia creators’ ambitions in creating metaphysical virtual experiences. My experience as a double major in Communications Studies and Religious Studies, as well as my background in costume design, have convinced me that knowledge of other disciplines is nothing short of essential to create artefact of conceptual breadth. Accordingly, the course of my research will bring me into closer contact with both academicians from different fields and with videogame creators, whom will too inform my practice and my enquiries, through ethnographical interviews, as well as through a research-creation process of collaborating with creators in game and design jams.
 
 ---
+
+#### Letter of Intent
+##### _Masters of Arts in Digital Futures OCAD_
+##### _January 2017_
+### Roxanne Baril-Bédard
+I wish to pursue a Masters degree in the Digital Futures program at OCAD so that I can continue to explore the poetics of video game spaces.
+
+I am critically concerned about how these digital spaces allow for immersion, for a different phenomenological experience of location, and how these unique experiences can foster the sublime through their environmental or procedurally generative design. On a cultural level, from a queer and a feminist perspective, I also question the semiotics of our human-computer interactions, their assumptions, and their impact on reception.
+
+I aim to interrogate existing paradigms through speculative design, as well as through a focus on affective design, at the intersection of spatial theory, philosophy of aesthetics and spiritual art history. I also look forward to drawing on the interdisciplinary community at OCAD to delve deeper into architectural theory of design as well subtle communication through motion, interpellation and embodiment. I want to make interactive experiences that would explore the unique potential of digital media, creating animated or non-euclidian spaces. Dr. Peter Coppin and his works on ‘remote experiences’ are uniquely inspiring to my ambitions. Studying alongside him concepts like telepresence and embodiment would seem like a perfect fit. Moreover, Barbara Rauch and her unique concern for emotions in relation to design, Job Rutgers and his ambient experience design, Emma Westecott and her alternative approach to game design, as well as Stuart Candy and his civic life fostering speculative design projects - all seem like inspiring professors to be surrounded with, and among with I would feel comfortable exploring my conceptual endeavours.
+
+Indeed, during my BA, double majoring in Communications and Cultural Studies and in Religious Studies, I’ve become a practitioner of what the department calls research-creation under Dr. Erin Gee, Fenwick McKelvey and Sandra Gabriele. It is a hybrid approach of learning through making. I am interested in the Digital Futures program because I can continue to use this approach. My thesis work will focus on making software, games, and procedurally generated digital pieces that will aim to explore the idea of the sublime, a metaphysical emotion that have been traditionally studied and tackled by architects and artists across eras. I aim for these pieces to invite
+
+ a spectrum of affect from games, and to develop a model that facilitates multifaceted environmental affective design for both scholars and designers of videogames. I want to create work that can effect change in people, creating empathy through affective knowledge. The Digital Futures program, being multifaceted and involved, will allow me to continue my path towards further Graduate studies, as I aim to continue percolating in the academia towards a Doctorate program in the future, while also aiming to create critical media in order to disseminate ideas to a wider public.
+ 
+I am a strong candidate for your program with an on-going research creation practice as well as an active member of the Concordia community. Some of my pieces have explored ideas such as the techno-utopian Californian Ideology and its occulted victims; a bio-sensor responsive VR museum installation under multimedia artist Erin Gee where an AI narrator employs parodic self-help rhetoric, laying the blame of un- happiness on the individual; the remediation of a taxonomy of derailment tactics or faulty rhetoric patterns in an intersectional feminist RPG; and twitter bots that muses on intersection between identity politics, celebrities and academic theory, or that expresses ad absurdum existential dread, making emotions strange yet shared in the public twitter sphere.
+
+I am also an active member of Concordia’s prestigious gaming research cluster, Technoculture, Art and Game at the Millieux Institute, where I organize events as the Research Assistant of Lyn Hughes, Concordia University Research Chair in Interaction Design and Games Innovation. I co-founded the Millieux Undergraduates Group, an interdisciplinary research-creation cluster that fosters research-creation and project- based learning, and organizes skill sharing workshops, as well as cross-faculty community initiatives such as game jams or curated multimedia exhibitions. This group allow academic focused students to share with people from different backgrounds and create projects at the intersections of the sets of skills.

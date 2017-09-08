@@ -1,3 +1,6 @@
+## Digital Futures
+[Admission Submission](../Digital%20Futures/ResearchPoposal)
+
 ## Virtual Reality
 [VR filmography before VR](../vr/vr_films)
 

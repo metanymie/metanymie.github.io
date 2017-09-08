@@ -4,17 +4,18 @@ My research proposal
 My letter of intent
 My portfolio
 
-##Program Proposal for Special Individualized Program (M.A.)
+## Program Proposal for Special Individualized Program (M.A.)
 
-###Submitted by Roxanne Baril-Bédard, January 2017
+### Submitted by Roxanne Baril-Bédard, January 2017
 
-#The Sublime in Videogames - Digital Embodiment, Spatiality and the Intangible
+# The Sublime in Videogames - Digital Embodiment, Spatiality and the Intangible
 
-**Abstract:** In my research I intend to create interactive digital experiences that explore the intersection of spatial theory, the philosophy of aesthetics, and game studies. Tackling the contemporary game studies researches regarding topology and affective design, I want to create artistic interactive pieces that explore and expand on the medium’s unique poetic potential to foster emotional interpellation through motion. The resulting interactive media productions, and the literature accompanying them, will contribute to the current trend in game and new media studies in which games are analyzed from a multidisciplinary perspective, in relation to but differentiated from other artistic and media practices.
+#### Abstract 
+In my research I intend to create interactive digital experiences that explore the intersection of spatial theory, the philosophy of aesthetics, and game studies. Tackling the contemporary game studies researches regarding topology and affective design, I want to create artistic interactive pieces that explore and expand on the medium’s unique poetic potential to foster emotional interpellation through motion. The resulting interactive media productions, and the literature accompanying them, will contribute to the current trend in game and new media studies in which games are analyzed from a multidisciplinary perspective, in relation to but differentiated from other artistic and media practices.
 
 ---
 
-**Introduction**
+#### Introduction
 There are a plethora of ways to approach videogames. Many wonder about their effect on audiences, from a social sciences standpoint; others are concerned about their narrative potential, as a non-linear, participative media; others still ponder about the technicalities needed to create virtual worlds. One of the early theorists of videogames, Espen Aarseth, have stated in the editorial of the International Journal of Computer Game Research’s first edition “\[the simulation aspect of videogames\] is radically different to \[textual\] narratives as a cognitive and communicative structure” (Aarseth, 2001). There is something unique to interactive digital experiences that scholars are interested to explore.
 
 	However, this emphasis on the novelty of videogames as a medium sometimes falls short of seeing the potential parallels with other forms of design, art, and their surrounding discursive traditions. In particular, it disdains theoretical cross-pollination with the traditions analyzing the emotional experiential aspects of art, which could only deepen game scholars and designers’ perspectives of the medium’s potentiality. Because of their spatial nature, and by the plurilocative intangible embodiment they necessitate, videogames would be better understood as sensory works of art, or as immersive experiences. More so, a meta-analysis of this game studies trend can be found in “Fundamental Component of the Gameplay Experience,” published in 2007 by Laura Ermi and Frans Mäyrä. However, while they skillfully define different virtual re-embodiments, they mostly rely on psychology literature to support their arguments and their taxonomical classification of experiences, rather than philosophy or art history.
@@ -29,7 +30,8 @@ There are a plethora of ways to approach videogames. Many wonder about their eff
 
 ---
 
-**Research**
+#### Research
+
 This is where my research begins. I am interested in how we may understand plurilocative embodiment in the digital space and the potential thereof for affective environmental design, rather than focusing on narratives, on systems, or on players and their cultural background. This focus on games as experience and game as environment necessitate exploring the relation of perceptions and meaning making to motion in (virtual) space. Moreover, I want to pursue this theoretical percolation through iterating interactive experiences in a research-creation program, in order to actualize the insights gathered from different academic fields.
 	Naturally, the very idea of making games that explore the possibilities for experiencing the sublime necessitate an interdisciplinary approach. My work will combine procedurally generative art, three-dimensional world building as well as game systems. Although I will draw on architecture and on philosophy, my work will aim to weave their influences in a cohesive and novel whole. 
 	In formulating an answer to these questions, I will create work and forge collaborations with other game scholars, designers, and critics. Through technical practice as well as through continuous conceptual exploration, I will keep on being involved in the booming videogame community in Montreal and in Concordia. Ultimately, I hope to create a new poetic of videogame experiences and disseminate alternative ambitions for this interactive media.

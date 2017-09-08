@@ -1,7 +1,7 @@
 Here are the documents that got me into grad school:
 
-My research proposal
-My letter of intent
+My research proposal  
+My letter of intent  
 My portfolio
 
 #### Program Proposal for Special Individualized Program (M.A.)
@@ -10,8 +10,7 @@ My portfolio
 
 ### The Sublime in Videogames - Digital Embodiment, Spatiality and the Intangible
 
-	#### Abstract 
-	In my research I intend to create interactive digital experiences that explore the intersection of spatial theory, the philosophy of aesthetics, and game studies. Tackling the contemporary game studies researches regarding topology and affective design, I want to create artistic interactive pieces that explore and expand on the medium’s unique poetic potential to foster emotional interpellation through motion. The resulting interactive media productions, and the literature accompanying them, will contribute to the current trend in game and new media studies in which games are analyzed from a multidisciplinary perspective, in relation to but differentiated from other artistic and media practices.
+	**Abstract:** In my research I intend to create interactive digital experiences that explore the intersection of spatial theory, the philosophy of aesthetics, and game studies. Tackling the contemporary game studies researches regarding topology and affective design, I want to create artistic interactive pieces that explore and expand on the medium’s unique poetic potential to foster emotional interpellation through motion. The resulting interactive media productions, and the literature accompanying them, will contribute to the current trend in game and new media studies in which games are analyzed from a multidisciplinary perspective, in relation to but differentiated from other artistic and media practices.
 
 #### Introduction
 There are a plethora of ways to approach videogames. Many wonder about their effect on audiences, from a social sciences standpoint; others are concerned about their narrative potential, as a non-linear, participative media; others still ponder about the technicalities needed to create virtual worlds. One of the early theorists of videogames, Espen Aarseth, have stated in the editorial of the International Journal of Computer Game Research’s first edition “\[the simulation aspect of videogames\] is radically different to \[textual\] narratives as a cognitive and communicative structure” (Aarseth, 2001). There is something unique to interactive digital experiences that scholars are interested to explore.

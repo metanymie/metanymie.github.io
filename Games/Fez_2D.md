@@ -34,6 +34,11 @@ For this prototype, we played by ear, and made 24 unique cards. 24 is a fun, eas
 
 ![Balancing in action, draft](../Games/assets/balancing.png)  
 
+### The Influence and the Potential
+
+So this Christmas I met my nieces, 9 and 7, whom both received many games for Christmas. One of them received a puzzle that resembles a full board of tetrominos. It comes with a little booklet with a serie of challenges, or levels, that are instructions on which tetrominos to place where, the challenge being the player must fill out the rest of the grid with the remaining pieces. One could design levels for this game in the same way, setting immobile cards players must work around.  
+In that sense, it also made me think about the game Labyrinth, with its map of both mobile and immobile terrain pieces that needs to be moved around in order to reach the goal. Maybe Fez 2D+ too could be multiplayer, allowing only one card shuffling per person per turn. We steered away from multiplayer games however as my partner felt that the most important feeling she wanted to capture in this prototype is a chill experience of figuring out a puzzle at your own pace.
+
 ### Context and Fez Analysis
 
 For Digital Games class at OCAD U, we were ask to do an MDA (Mechanics, Dynamics, Aesthetics) analysis of a game of our choosing, here Fez. This was an introductory way to think about the many layers that make a game. We were also told to answer some questions that make us think the game.  

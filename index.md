@@ -1,3 +1,6 @@
+## Games 
+[Fez 2D+](../Games/Fez_2D)
+
 ## Digital Futures
 [Admission Submission](../Digital_Futures/ResearchProposal)
 

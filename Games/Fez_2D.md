@@ -9,21 +9,28 @@ Created with Roxolyana Shepko in one week
 ### Rules
 
 The board features two “doorways”, one on the bottom left corner of the board and one on the upper right corner of the board. The bottom left is the starting point, the top right is the finishing goal. The other goal is to collect chests.  
+
 The player will randomly select 6 cards from a deck of 24 and place onto the indicated spaces upon the board. The player’s character must navigate the cards.  
+
 The cards, once placed onto the spaces on the board, are not locked to their positions. They can be rearranged to figure out the ideal combination of placement to move the character across the board.
 
 However, whichever card the character is on at that point during the game must remain locked in place.   
 If the player is stuck and cannot progress, they can, once per round, discard one (1) card from the board and replace it by drawing another.  
 
+
 The game lasts 3 rounds.  
+
 At the beginning of every round, the player rolls a dice. The number they get is the number of the card they must place a chest on; they roll again to determine which platform they put it on. They do not prevent a card from being moved around, but they have to moved with the card.   
+
 At the beginning of round 2, the player uses this method to put a chest and a small black hole. Black holes are obstacles the player cannot collide with. Move black holes around like you would a chest.  
+
 At round 3, place a chest, a small black hole and a big black hole.
 
 ### On Balancing
 
 Once we were set on making a platformer for paper, and we knew moving the cards around would allow us to give a similar feeling to when you are playing fez and you shift perspective, we knew we had to balance the possibility of platform placement. We needed to have platforms attainable or not on the same card and platforms well distributed accross the different areas of the card - leaving the platform placement to randomness wouldn't have been as thorough.   
-For this prototype, we played by ear, and made 24 unique cards. Separating the card of 9 by 6 squares in 6 sections, I distributed evenly first left then right in each row, then added an even number of other rows, left and right. The process could have been even more granular and take into account not only the quarants but the lines of the platforms, and could be deepened through iterations and playtesting. Our class time playtest made me think the game was imbalanced as it is right now, as it only has 6 cards with platforms in the middle, so traversing can be impossible with the wrong set of cards. The size of the board and total number of cards could also be tinkered with.
+
+For this prototype, we played by ear, and made 24 unique cards. 24 is a fun, easily divisible number in third and quarters, so it made sense. Separating the card of 9 by 6 squares in 6 sections, I distributed evenly first left then right in each row, then added an even number of other rows, left and right. The process could have been even more granular and take into account not only the quarants but the lines of the platforms, and could be deepened through iterations and playtesting. Our class time playtest made me think the game was imbalanced as it is right now, as it only has 6 cards with platforms in the middle, so traversing can be impossible with the wrong set of cards. The size of the board and total number of cards could also be tinkered with.
 
 ![Balancing in action, draft](../Games/assets/balancing.png)  
 

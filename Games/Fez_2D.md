@@ -4,7 +4,7 @@ Created with Roxolyana Shepko in one week
 
 ![picture of the boardgame prototype](../Games/assets/boardgame_proto.png)  
 
-[Download the game]../Games/assets/fez2dplus.pdf)    
+[Download the game](../Games/assets/fez2dplus.pdf)    
 
 ### Rules
 

@@ -1,8 +1,10 @@
 ## Fez 2D+
 
-Created with Roxolyana Shepko
+Created with Roxolyana Shepko in one week  
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![picture of the boardgame prototype](../Games/assets/boardgame_proto.png)  
+
+[Download the game]../Games/assets/fez2dplus.pdf)    
 
 ### Rules
 
@@ -18,9 +20,16 @@ At the beginning of every round, the player rolls a dice. The number they get is
 At the beginning of round 2, the player uses this method to put a chest and a small black hole. Black holes are obstacles the player cannot collide with. Move black holes around like you would a chest.  
 At round 3, place a chest, a small black hole and a big black hole.
 
-### Context
+### On Balancing
 
-For Digital Games class, we were ask to do an MDA (Mechanics, Dynamics, Aesthetics) analysis of a game of our choosing, here Fez. This was an introductory way to think about the many layers that make a game. We were also told to answer some questions that make us think the game.  
+Once we were set on making a platformer for paper, and we knew moving the cards around would allow us to give a similar feeling to when you are playing fez and you shift perspective, we knew we had to balance the possibility of platform placement. We needed to have platforms attainable or not on the same card and platforms well distributed accross the different areas of the card - leaving the platform placement to randomness wouldn't have been as thorough.   
+For this prototype, we played by ear, and made 24 unique cards. Separating the card of 9 by 6 squares in 6 sections, I distributed evenly first left then right in each row, then added an even number of other rows, left and right. The process could have been even more granular and take into account not only the quarants but the lines of the platforms, and could be deepened through iterations and playtesting. Our class time playtest made me think the game was imbalanced as it is right now, as it only has 6 cards with platforms in the middle, so traversing can be impossible with the wrong set of cards. The size of the board and total number of cards could also be tinkered with.
+
+![Balancing in action, draft](../Games/assets/balancing.png)  
+
+### Context and Fez Analysis
+
+For Digital Games class at OCAD U, we were ask to do an MDA (Mechanics, Dynamics, Aesthetics) analysis of a game of our choosing, here Fez. This was an introductory way to think about the many layers that make a game. We were also told to answer some questions that make us think the game.  
 
 After having a good grasp of that game, we were to translate it to a physical game, wether thematically, mechanically or literally.  
 
@@ -33,7 +42,7 @@ By collecting the cubes, moving around 2dx3d level with the arrows and space bar
 3. How does gameplay feel?
 Exploratory and mysterious, not stressful, there is a sense of wonder, it doesn’t feel too challenging, you have this open space to explore but you can take your time, it feels very lively because of the cutesy style animation and the characters 
 
-Mechanics: 
+#### Mechanics: 
 Running (arrow keys)
 Jumping (space bar)
 Looking around (up I, down K, left J, right L)
@@ -46,14 +55,14 @@ Collecting maps
 Navigating through spaces, entering through doors
 Reference maps
 
-Dynamics: 
+#### Dynamics: 
 Challenge : navigating space in both 2d and 3d to attain spots on the map on the screen and in the world map that are no self evident/ easy to go to (navigational puzzles) 
 discovery, having multiple perspectives to shift to which changes the decor + going through doors that lead to new backgrounds and ambiance (get some screenshot)
 narrative, both through written out dialog an animation that situate the player in the game overarching narrative and more insidiously through the different environment the player finds themselves into while playing the game
 aspect of fellowship? Just in terms of online community / metagame; secrets and easter eggs are social
 
-Aesthetics: 
+#### Aesthetics: 
 challenge, 
 discovery, 
 narrative, 
-aspect of fellowship? Just in terms of online community / metagame; secrets and easter eggs are social
+aspect of fellowship? Just in terms of online community / metagame; secrets and easter eggs are social  

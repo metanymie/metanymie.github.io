@@ -40,13 +40,13 @@ For Digital Games class at OCAD U, we were ask to do an MDA (Mechanics, Dynamics
 
 After having a good grasp of that game, we were to translate it to a physical game, wether thematically, mechanically or literally.  
 
-1. What is the point of the game?
+1. What is the point of the game?  
 To explore everything, for which you need to acquire a mastery in navigating the 2d x 3d dimensions of the game levels
 
-2. How do you play?
+2. How do you play?  
 By collecting the cubes, moving around 2dx3d level with the arrows and space bar or with a plugged controller and its buttons
 
-3. How does gameplay feel?
+3. How does gameplay feel?  
 Exploratory and mysterious, not stressful, there is a sense of wonder, it doesn’t feel too challenging, you have this open space to explore but you can take your time, it feels very lively because of the cutesy style animation and the characters 
 
 #### Mechanics: 

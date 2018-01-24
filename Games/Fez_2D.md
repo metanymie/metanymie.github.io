@@ -2,9 +2,9 @@
 
 Created with Roxolyana Shepko in one week  
 
-![picture of the boardgame prototype](../Games/assets/boardgame_proto.png)  
+![picture of the boardgame prototype](../assets/fez2dplus/boardgame_proto.png)  
 
-[Download the game](../Games/assets/fez2dplus.pdf)    
+[Download the game](../assets/fez2dplus/fez2dplus.pdf)    
 
 ### Rules
 
@@ -32,7 +32,7 @@ Once we were set on making a platformer for paper, and we knew moving the cards 
 
 For this prototype, we played by ear and made 24 unique cards. 24 is a fun, easily divisible number in third and quarters, so it made sense. Separating the card of 9 by 6 squares into 6 sections, I distributed platforms evenly first left then right for each of the 3 rows, then added an even number of platforms in other rows, as well as left and right. The process could have been even more granular and take into account not only the quadrants but the lines of the platforms, and could be deepened through iterations and playtesting. Our class time playtest made me think the game was imbalanced as it is right now, as the deck only has 6 cards with platforms in the middle, so traversing the playing field can sometimes be impossible if dealt the wrong set of cards. The size of the board and total number of cards could also be tinkered with.
 
-![Balancing in action, draft](../Games/assets/balancing.png)  
+![Balancing in action, draft](../assets/fez2dplus/balancing.png)  
 
 ### The Influence and the Potential
 

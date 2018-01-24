@@ -33,8 +33,8 @@ var titlePosi=0 , textPosi=0, textBox = 0;
 var rateWidth = 0;
 
 function preload() {
-  img1 = loadImage("assets/palmistry-web-bg0.png");
-  img2 = loadImage("assets/palmistry-web-bg2.png");
+  img1 = loadImage("assets/images/palmistry-web-bg0.png");
+  img2 = loadImage("assets/images/palmistry-web-bg2.png");
 }
 
 /***************************************************

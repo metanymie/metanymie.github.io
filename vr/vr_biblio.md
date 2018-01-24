@@ -1,3 +1,11 @@
+---
+title: VR Research
+subtitle: Biblio, concepts, 
+layout: post
+icon: fa-book
+order: 3
+---
+
 ## Concept Bank
 
 ### Heterotopia

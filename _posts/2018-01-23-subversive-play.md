@@ -6,9 +6,9 @@ layout: post
 
 ### Playing Proteus aesthetically  
 
-<iframe width="720" height="480"  frameborder="0" src="https://www.youtube.com/embed/qUNpqkn4WE4"> </iframe>
-
 As I start the game, I notice that one of the few interactive things in the game are the animals. I decide to collect the animals that I can influence by my presence (not the owl then) and put them on the top of a mountain, trying to see how many I could collect. I encounter some frogs and two group of birds. During the play, this mountain and my attachent to it via the animals create meaning in the way, because I navigate the map always orienting or trying to orient myself so that I can find my way back to the mountain and bring more animal on top of the mountain.  
+
+<iframe width="720" height="480"  frameborder="0" src="https://www.youtube.com/embed/qUNpqkn4WE4"> </iframe>
 
 Night falls, and the clouds are low. As I walk, the bells and clicking of chicken nearby, I follow them, try to circle around the to bring them in the right direction. But the clouds are too low, the fog has risen, and I am lost. I cannot find my way, the chickens almost fall in the ocean.I end up losing my chickens as well, in the mist. I find the house that stands at the bottom of my mountain, past the graveyard. The mountain and the chicken that I thought were mine were easy to lose and so was I. It is hard to make meaning of an environment when your reference points are lost.  
 

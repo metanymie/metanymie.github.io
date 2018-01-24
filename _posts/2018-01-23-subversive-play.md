@@ -2,7 +2,6 @@
 title: I was trying to play subversively the game, but the game played me
 author: Metanymie
 layout: post
-category: blog
 ---
 
 ### Playing Proteus aesthetically  

@@ -3,8 +3,8 @@
 # project's root directory. Please note that the following lines are
 # NECESSARY for Prologue to work correctly:
 #
-# remote_theme: chrisbobbe/jekyll-theme-prologue
-# collections: [sections]
+remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -50,7 +50,7 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/metanymie
 
 # Google Analytics Tracking ID goes here:
 google_analytics:

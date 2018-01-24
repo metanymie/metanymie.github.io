@@ -39,7 +39,7 @@ email: roxanne.j.barbe@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
@@ -54,7 +54,3 @@ twitter_url: https://twitter.com/metanymie
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
-
-# The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
-collections: [sections]

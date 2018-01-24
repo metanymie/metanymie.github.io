@@ -1,3 +1,9 @@
+---
+title: Non-euclidian space: concepts and lectures
+author: Metanymie
+layout: post
+---
+
 ## Concept bank
 
 ### Gunter Nitschke "experienced or concrete space" 

@@ -1,5 +1,5 @@
 ---
-title: Grad School @ OCAD (Ongoing)
+title: MA @ OCAD (Ongoing)
 subtitle: What got me in
 layout: "page"
 icon: fa-book

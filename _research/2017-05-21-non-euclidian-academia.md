@@ -2,6 +2,7 @@
 title: Non-euclidian space: concepts and lectures
 author: Metanymie
 layout: post
+category: research
 ---
 
 ## Concept bank

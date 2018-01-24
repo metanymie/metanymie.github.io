@@ -4,6 +4,10 @@
 ## Digital Futures
 [Admission Submission](../Digital_Futures/ResearchProposal)
 
+## Blog
+
+[I was trying to play subversively the game, but the game played me: Playing Proteus aesthetically](../blog/jan_23_2018)
+
 ## Virtual Reality
 [VR filmography before VR](../vr/vr_films)
 

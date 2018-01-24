@@ -16,7 +16,3 @@
 ## Non-Euclidian Topology in Games
 
 [Tentative Biblio](../non-euclidian/academia)
-
-## Embodiment in Just Dance
-
-## Spectrums of femininity: Hollywood vs Anime

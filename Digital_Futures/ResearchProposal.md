@@ -1,14 +1,22 @@
+---
+title: Grad School (Ongoing)
+subtitle: What got me in
+layout: "page"
+icon: fa-book
+order: 3
+---
+
 Here are the documents that got me into grad school:
 
 [My research proposal](#RESEARCH-PROPOSAL-FOR-DIGITAL-FUTURES-(M.A.))  
 [My letter of intent](#letter-of-intent)  
 [My portfolio]()
 
-#### RESEARCH PROPOSAL FOR DIGITAL FUTURES (M.A.)
+#### RESEARCH PROPOSAL FOR DIGITAL FUTURES (M.A.)  
 
-##### Submitted by Roxanne Baril-Bédard, January 2017
+##### Submitted by Roxanne Baril-Bédard, January 2017  
 
-### The Sublime in Videogames - Digital Embodiment, Spatiality and the Intangible
+### The Sublime in Videogames - Digital Embodiment, Spatiality and the Intangible  
 
 > **Abstract:** In my research I intend to create interactive digital experiences that explore the intersection of spatial theory, the philosophy of aesthetics, and game studies. Tackling the contemporary game studies researches regarding topology and affective design, I want to create artistic interactive pieces that explore and expand on the medium’s unique poetic potential to foster emotional interpellation through motion. The resulting interactive media productions, and the literature accompanying them, will contribute to the current trend in game and new media studies in which games are analyzed from a multidisciplinary perspective, in relation to but differentiated from other artistic and media practices.
 

@@ -6,7 +6,9 @@ layout: post
 
 ### Playing Proteus aesthetically  
 
-As I start the game, I notice that one of the few interactive things in the game are the animals. I decide to collect the animals that I can influence by my presence (not the owl then) and put them on the top of a mountain, trying to see how many I could collect. I encounter some frogs and two group of birds. During the play, this mountain and my attachent to it via the animals create meaning in the way, because I navigate the map always orienting or trying to orient myself so that I can find my way back to the mountain and bring more animal on top of the mountain.  
+Many forms of subversive plays emerge from a deep knowledge of a game. After having explored every nooks and crany, people devise novel ways with which to enagage in a game. I'm thinking of glitching games, or the Nuzlocke challengein Pokémon. A funny one I have heard about is playing Dishonored but lay every incapacitated ennemy in beds. Griefing, too, implies a level of knowledge of the rules and accepted in-game behavior. I set out to subvert a game that I do not know, Proteus: in an emergent fashion, I will be exploring its boundaries, according to [Dan Cox typology of subversive play styles](https://videlais.com/2011/08/26/subversive-play/), and will reflect on my experience as it happens. I plan to start recording when I feel in the right direction towards subversion.
+
+As I start the game, I notice that one of the few interactive things in the game, as in things that I can influence, are the animals. I decide to collect the animals that I can influence by my presence (not the owl then) and put them on the top of a mountain, trying to see how many I could collect. I encounter some frogs and two group of birds. During the play, this mountain and my attachent to it via the animals create meaning in the way, because I navigate the map always orienting or trying to orient myself so that I can find my way back to the mountain and bring more animal on top of the mountain.  
 
 <iframe width="1024" height="576"  frameborder="0" src="https://www.youtube.com/embed/qUNpqkn4WE4"> </iframe>
 
@@ -25,8 +27,5 @@ I wanted to have all the animals at the same place because when you approach the
 
 Having only heard of Proteus without having played it before, I didn’t know about the changing of season and their different properties. When I started recording, I quickly trigger by accident the spiral that changes the season to fall. There are no animals for me to collect in the fall; the video is in a sense a memorabilia of my experience as I encounter and make sense of the limits and experiences allowed in the game in real time. How I realize that the game is playing me and my expectations as I try to control it and make it into what I want and cannot achieve. Having known that, I would have recorded earlier, but having known that, it wouldn’t have made for so pure a realization.  
 
-How much agency do I really have? Proteus is a powerful game. Even when you think you outwit it, aiming for the mountains, it finds a way to subvert your sense of orientation with the clouds and the fogs. It removes your animals you collect. It changes season through sudden animation. You learn as you make not mistake but steps, realizing that even if you will to go somewhere, the game decides what happens when you and other things move. You are the game’s toy.  
-
-
-
+How much agency do I really have? Proteus is a powerful game. Even when you think you outwit it, aiming, say, for the mountains in the distance, thinking you will never lose them because of their sheer size, Proteus finds a way to subvert your sense of orientation with the clouds and the fogs. It removes your animals you thought you collected. It changes season through sudden animation. You learn as you make not mistake but steps, realizing that even if you will to go somewhere, the game decides what happens when you and other things move. You are the game’s toy.  
 
